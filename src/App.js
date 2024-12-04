@@ -6,7 +6,6 @@ function App() {
       <div>
         <Sidebar/>
       </div>
-      hi Teja
     </div>
   );
 }
