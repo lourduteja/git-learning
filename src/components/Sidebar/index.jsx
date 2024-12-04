@@ -5,8 +5,7 @@ const Sidebar = () => {
         {
             title: 'Teja',
             Icon: computer-desktop
-        }
-    
+        },
     {
         title: 'Dashboard',
         Icon: Squares2X2Icon
