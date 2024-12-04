@@ -7,6 +7,7 @@ function App() {
         <Sidebar/>
       </div>
       hi teja
+      how are you?
     </div>
   );
 }
