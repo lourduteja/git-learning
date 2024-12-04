@@ -1,12 +1,7 @@
-import { computerdesktop, Squares2X2Icon, UserGroupIcon, ChatBubbleLeftEllipsisIcon, InboxStackIcon, ArrowsRightLeftIcon } from '@heroicons/react/24/outline'
+import { Squares2X2Icon, UserGroupIcon, ChatBubbleLeftEllipsisIcon, InboxStackIcon, ArrowsRightLeftIcon } from '@heroicons/react/24/outline'
 
 const Sidebar = () => {
-    const menuItems = [
-        {
-            title: 'TEJA',
-            Icon: computerdesktop
-        },
-    {
+    const menuItems = [{
         title: 'Dashboard',
         Icon: Squares2X2Icon
     },
