@@ -2,10 +2,6 @@ import { Squares2X2Icon, UserGroupIcon, ChatBubbleLeftEllipsisIcon, InboxStackIc
 
 const Sidebar = () => {
     const menuItems = [
-        {
-            title: 'Teja',
-            Icon: computer-desktop
-        },
     {
         title: 'Dashboard',
         Icon: Squares2X2Icon
